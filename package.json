@@ -1,0 +1,16 @@
+{
+  "name": "nextexperience",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:YoannBourdet/nextexperience.git",
+  "author": "Yoann Bourdet <yoannbourdet@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next"
+  },
+  "dependencies": {
+    "next": "^5.1.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  }
+}
